@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi, I'm Prathmesh Raj 👋
 
+🎓 Class 12 Student
+💻 Learning Python & Web Development
+🚀 Interested in Startups and AI
+
+## Current Goals
+- Learn Python
+- Build Projects
+- Create a Startup
+- Study Computer Science
 <!--
 **prathmeshraj0309-max/prathmeshraj0309-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
