@@ -1,3 +1,5 @@
+> Building my journey from Class 12 student to Software Engineer and Entrepreneur 🚀
+
 # Hi, I'm Prathmesh Raj 👋
 
 ### Aspiring Software Engineer & Entrepreneur
