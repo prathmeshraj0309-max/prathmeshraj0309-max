@@ -1,32 +1,40 @@
 # Hi, I'm Prathmesh Raj 👋
 
+### Aspiring Software Engineer & Entrepreneur
+
 🎓 Class 12 CBSE Student
 
 💻 Currently Learning:
 - Python
-- Web Development
 - Git & GitHub
+- HTML
+- CSS
+- Web Development
 
 🚀 Interests:
 - Computer Science
 - Artificial Intelligence
-- Startups & Entrepreneurship
+- Startups
+- Entrepreneurship
 
-🎯 Goals:
-- Build Real Projects
-- Launch a Startup
-- Study CS at a Top University
-<!--
-**prathmeshraj0309-max/prathmeshraj0309-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Current Goals:
+- Master Python
+- Build 5+ Real Projects
+- Learn Full-Stack Development
+- Create a Startup
 
-Here are some ideas to get you started:
+## Projects
+- Calculator Project
+- Portfolio Website
+- To-Do List Manager (In Progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+
+🌐 Portfolio Website:
+https://prathmeshraj0309-max.github.io/prathmeshraj0309-max/
+
+💼 LinkedIn:
+www.linkedin.com/in/prathmeshraj
+
+🐙 GitHub:
+https://github.com/prathmeshraj0309-max
